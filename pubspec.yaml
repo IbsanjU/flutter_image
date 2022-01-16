@@ -26,6 +26,7 @@ dependencies:
 
   image_picker: ^0.6.7+22
   video_player: ^1.0.1
+  path_provider: ^1.6.28
 
 
   # The following adds the Cupertino Icons font to your application.
